@@ -1,0 +1,11 @@
+Started GET "/" for 127.0.0.1 at 2023-05-10 23:59:12 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/jolicienta/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/jolicienta/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.6ms | Allocations: 636)
+Completed 200 OK in 33ms (Views: 17.9ms | ActiveRecord: 0.0ms | Allocations: 5099)
+
+
+Started GET "/home" for 127.0.0.1 at 2023-05-11 00:00:00 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
